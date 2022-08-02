@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\LED.obj" 
+TO ".\Objects\Circulation of the lamp" 
+PRINT(".\Listings\Circulation of the lamp.m51") RAMSIZE(256) 
